@@ -1,11 +1,15 @@
 ---
 # Parcial N° 1
 
-### Materia: Programación
-
 ### Alumno: Leonardo Cabrera
 
+### Curso: 2°1°
+
+### Materia: Programación
+
 ### Profesor: Alberto Cortez
+
+### IES Manuel Belgrano (ciudad)
 ---
 
 ## Consignas   
