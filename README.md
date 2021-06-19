@@ -48,6 +48,8 @@ sequelize model:generate --name Shipping --attributes street:string,number:integ
 sequelize model:generate --name Product --attributes name:string,price:decimal,stock:integer,stock_min:integer,stock_max:integer,brand_id:integer,categories_id:integer,genders_id:integer,sizes_id:integer
 
 sequelize model:generate --name Image --attributes name:string,product_id:integer
+
+sequelize model:generate --name OrdersDetails --attributes quantity:decimal,subtotal:decimal,products_id:integer,orders_id:integer
 ```
 ---
 
